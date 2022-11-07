@@ -32,17 +32,16 @@ not yet morphed.
 
 |                   Ability                         | Max |
 | -------------------------------------------       | --- |
-| [Berserker](../abilities/berserker.md)            | 20  |
-| [Cacodemon](../abilities/cacodemon.md)            | 20  |
-| [Parasite](../abilities/parasite.md)              | 20  |
-| [Brain](../abilities/brain.md)                    | 20  |
-| [Flyer](../abilities/flyer.md)                    | 20  |
-| [Mutant](../abilities/mutant.md)                  | 20  |
-| [Tank](../abilities/tank.md)                      | 20  |
-| [Medic](../abilities/medic.md)                    | 20  |
-| [Ghost](../abilities/ghost.md)                    | 99  |
+| [Berserker](../abilities/berserker.md)            | 10  |
+| [Cacodemon](../abilities/cacodemon.md)            | 10  |
+| [Parasite](../abilities/parasite.md)              | 10  |
+| [Brain](../abilities/brain.md)                    | 10  |
+| [Flyer](../abilities/flyer.md)                    | 10  |
+| [Mutant](../abilities/mutant.md)                  | 10  |
+| [Tank](../abilities/tank.md)                      | 10  |
+| [Medic](../abilities/medic.md)                    | 10  |
+| [Ghost](../abilities/ghost.md)                    | 1  |
 | [Morph Mastery](../abilities/morph_mastery.md)    | 1   |
-| [Monster Summon](../abilities/monster_summon.md)  | 1   |
 
 ### Talents
 * [Morphing](../talents/morphing.md)
